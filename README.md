@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+⚡ [Coders Rank](https://profile.codersrank.io/user/devguerra)
+
+👯 [Twitter](https://twitter.com/dev_guerra)
+
+📫 [Linkedin](https://www.linkedin.com/in/umroberto/)
+
 <!--
 **devGuerra/devGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
