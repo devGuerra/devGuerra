@@ -9,7 +9,7 @@
 
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devGuerra&show_icons=true&count_private=true&theme=dracula&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devGuerra&count_private=true&include_all_commits=true&theme=dracula&show_icons=true&hide=issues" />
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGuerra&layout=compact&theme=dracula" />
