@@ -14,12 +14,3 @@
 ✅ <a href="http://www.mytestwebcam.com" rel="nofollow noreferrer" align="justify">mytestwebcam.com</a>
 
 
-
-**devGuerra/devGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on @fcamara
-- c I’m currently learning nexjs and flutter
-- 💬 Ask me about react native, micro sass
-
