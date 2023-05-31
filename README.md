@@ -1,6 +1,3 @@
-# Hi there 👋
-
-
 <a href="https://profile.codersrank.io/user/devguerra">⚡Coders Rank</a>
 <a href="https://instagram.com/dev_guerra">👯 Instagram</a>
 <a href="https://www.linkedin.com/in/umroberto/">📫 Linkedin</a>
