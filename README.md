@@ -16,10 +16,8 @@
   <a href="https://apps.apple.com/us/app/twitchly-increase-your-growth/id6450406278" rel="nofollow noreferrer" align="justify">📱 </a>
 </p>
 
-<p>✅ Twitchly - Compartilhamento e crescimento de streamers da twtich
-  <a href="https://twitchly.io" rel="nofollow noreferrer" align="justify">🌐 </a> 
-  <a href="https://play.google.com/store/apps/details?id=com.mobird.twitchly" rel="nofollow noreferrer" align="justify">🤖 </a>
-  <a href="https://apps.apple.com/us/app/linkado-grupos-do-zap/id1565266000" rel="nofollow noreferrer" align="justify">📱</a>
+<p>✅ Twitch Notifier - Receba notificações quando streamers ficarem online
+  <a href="https://twitchnotifier.com" rel="nofollow noreferrer" align="justify">🌐</a> 
 </p>
 
 <p>✅ Teste sua Webcam
