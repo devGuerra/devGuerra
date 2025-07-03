@@ -6,7 +6,7 @@
 # <p>⚡ Projects</p>
 <p>✅ Fipe Placa - sistema para consultas da fipe através da placa
   <a href="https://www.fipeplaca.com.br" rel="nofollow noreferrer" align="justify">🌐 </a> 
-  <a href="https://play.google.com/store/apps/details?id=com.mobird.ipvacarro" rel="nofollow noreferrer" align="justify">🤖 </a>
+  <a href="https://play.google.com/store/apps/details?id=com.moblink.multz" rel="nofollow noreferrer" align="justify">🤖 </a>
   <a href="https://apps.apple.com/us/app/ipva-tabela-fipe-pela-placa/id1599556747" rel="nofollow noreferrer" align="justify">📱 </a>
 </p
 
