@@ -16,12 +16,4 @@
   <a href="https://apps.apple.com/us/app/twitchly-increase-your-growth/id6450406278" rel="nofollow noreferrer" align="justify">📱 </a>
 </p>
 
-<p>✅ Twitch Notifier - Receba notificações quando streamers ficarem online
-  <a href="https://twitchnotifier.com" rel="nofollow noreferrer" align="justify">🌐</a> 
-</p>
-
-<p>✅ Teste sua Webcam
-  <a href="http://www.mytestwebcam.com" rel="nofollow noreferrer" align="justify">🌐 </a>
-</p>
-
 
